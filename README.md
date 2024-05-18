@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+📒 Descrição
+Este projeto é uma coleção de imagens geradas por inteligência artificial (IA) com o objetivo de criar arte visualmente estética e inspiradora. As imagens são geradas utilizando modelos de IA generativos, resultando em uma variedade de estilos e formas criativas.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+StyleGAN2: Uma IA generativa que gera imagens de alta qualidade e realismo a partir de um conjunto de dados de treinamento.
+Python: Linguagem de programação utilizada para implementar e executar os modelos de IA generativos.
+TensorFlow: Biblioteca de aprendizado de máquina utilizada para treinar e executar modelos de IA, incluindo o StyleGAN2.
 
-> Woooow! Look at this 👀
+🧐 Processo de Criação
+O processo de criação envolveu as seguintes etapas:
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Coleta de dados: Seleção de conjuntos de dados de imagens inspiradoras e esteticamente agradáveis para treinar o modelo StyleGAN2.
+Treinamento do modelo: Utilização do conjunto de dados selecionado para treinar o modelo StyleGAN2, ajustando seus parâmetros para gerar imagens esteticamente atraentes.
+Geração de imagens: Após o treinamento, o modelo StyleGAN2 é utilizado para gerar uma ampla variedade de imagens, explorando diferentes estilos e conceitos estéticos.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🚀 Resultados
+O projeto resultou em uma coleção de imagens visualmente impressionantes e esteticamente agradáveis, demonstrando o poder e a criatividade das IAs generativas. As imagens geradas capturam uma variedade de estilos artísticos e inspirações visuais, proporcionando uma experiência visual única e cativante para os espectadores.
 
-### Objetivos
+💭 Reflexão (Opcional)
+Criar algo "natty" (natural e bonito) com IA apresentou seus desafios únicos. Embora as IAs generativas ofereçam um grande potencial para criar arte visualmente atraente, também é importante considerar o papel do artista no processo criativo. Encontrar o equilíbrio entre a expressão artística humana e a capacidade computacional das IAs é essencial para alcançar resultados verdadeiramente estéticos e significativos.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
